@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashevillerestorationco.com/sitemap.xml
